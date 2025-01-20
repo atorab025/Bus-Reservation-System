@@ -23,21 +23,22 @@ A simple console-based C++ program to manage bus reservations, including adding 
 
 ## **Installation and Usage**
 1. **Clone the repository:**
+   ```bash
    git clone https://github.com/your-username/bus-reservation-system.git
    cd bus-reservation-system
-
-2. **Compile the program:**
+   ```
+3. **Compile the program:**
    Use your preferred C++ compiler to compile the code:
    ```bash
    g++ bus_reservation.cpp -o bus_reservation
    ```
 
-3. **Run the program:**
+4. **Run the program:**
    ```bash
    ./bus_reservation
    ```
 
-4. **Program Options:**
+5. **Program Options:**
    - **1**: Add New Bus Number
    - **2**: Reserve a Seat
    - **3**: Show Reservations
