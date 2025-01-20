@@ -22,7 +22,7 @@ A simple console-based C++ program to manage bus reservations, including adding 
 ## **Installation and Usage**
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/bus-reservation-system.git
+   git clone https://github.com/atorab025/Bus-Reservation-System.git
    cd bus-reservation-system
    ```
 3. **Compile the program:**
