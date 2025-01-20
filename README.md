@@ -112,5 +112,3 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 ## **Contact**
 For questions or feedback, reach out to:
 - **Ali Torab**
-
-```
