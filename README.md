@@ -1,5 +1,3 @@
-### **README for Bus Reservation System**
-
 # Bus Reservation System
 
 A simple console-based C++ program to manage bus reservations, including adding new buses, reserving seats, viewing reserved seats, and displaying available buses.
